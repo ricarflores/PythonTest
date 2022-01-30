@@ -2,7 +2,7 @@
 
 Requeriments
 
-Python 3
+Python 3, 
 Pip
 
 To Run:
