@@ -11,9 +11,9 @@ Intall Dependencies
 
 - pip install -r requeriments.txt
 
-Run server
+Run server:
 
-python run server.py
+- python run server.py
 
 Test
 
